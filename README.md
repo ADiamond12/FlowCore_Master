@@ -5,7 +5,7 @@ FlowCore is a compact inbound warehouse commissioning simulation. It demonstrate
 ## Team Members
 
 Arsenios Diamantakos
-Panagiotis Pontikeas Eftychiadis
+@panagiotispontikeas
 
 ## Project Scope
 
