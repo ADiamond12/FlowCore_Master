@@ -1,0 +1,6 @@
+location_id,zone,capacity,used_after_run,active,priority
+A01,INBOUND_A,1,1,Y,3
+A02,INBOUND_A,1,1,Y,3
+A03,INBOUND_A,1,1,Y,2
+B01,RESERVE_B,2,0,Y,1
+C01,HOLDING_C,1,0,N,0

@@ -1,0 +1,5 @@
+FlowCore C++ Priority Placement Decision Checker
+High quantity threshold: 12
+Minimum location priority: 2
+Priority pallets checked: 2
+Result: PASS

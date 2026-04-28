@@ -1,0 +1,18 @@
+# Compiled C++ outputs
+project/cpp/flowcore_priority_checker
+project/cpp/flowcore_priority_checker.exe
+project/cpp/*.o
+project/cpp/*.obj
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Archive/temp artifacts
+*.zip
+*.rar
+*.7z
+*.tmp
+*.bak

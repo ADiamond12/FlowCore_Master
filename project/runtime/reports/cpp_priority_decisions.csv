@@ -1,0 +1,3 @@
+pallet_id,quantity,assigned_location,location_priority,decision,message
+PLT-1001,12,A01,3,APPROVED,High quantity pallet assigned to priority active location
+PLT-1003,15,A03,2,APPROVED,High quantity pallet assigned to priority active location

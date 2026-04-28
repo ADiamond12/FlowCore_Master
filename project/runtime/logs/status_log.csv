@@ -1,0 +1,10 @@
+event_id,pallet_id,status,location_id,message
+1,PLT-1001,RECEIVED,DOCK-01,Pallet received at dock
+2,PLT-1001,ASSIGNED,A01,Location assigned by rules
+3,PLT-1001,STORED,A01,Pallet stored successfully
+4,PLT-1002,RECEIVED,DOCK-01,Pallet received at dock
+5,PLT-1002,ASSIGNED,A02,Location assigned by rules
+6,PLT-1002,STORED,A02,Pallet stored successfully
+7,PLT-1003,RECEIVED,DOCK-01,Pallet received at dock
+8,PLT-1003,ASSIGNED,A03,Location assigned by rules
+9,PLT-1003,STORED,A03,Pallet stored successfully
